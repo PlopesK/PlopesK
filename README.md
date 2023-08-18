@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
-<!--
-**PlopesK/PlopesK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Good Morning!
+<p align="left"> 
+  Meu nome é PlopesK e sou um web developer que ama aprender coisas novas!<br>
+  Aqui no meu perfil será onde irei compartilhar meus projetos!
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+<hr />
+<img src="https://github-readme-stats.vercel.app/api?username=plopesk&show_icons=true&theme=tokyonight" min-width="400px" max-width="400px" width="400px" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plopesk&layout=compact&theme=tokyonight" min-width="350px" max-width="350px" width="350px" align="right">
