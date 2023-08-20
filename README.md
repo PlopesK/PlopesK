@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
-## Good Morning!
+<h1><img src="meow_code.gif" height="40"> Good Morning! <img src="meow_code.gif" height="40"></h1>
 Meu nome é PlopesK e sou um web developer que ama aprender coisas novas!<br>
 Aqui no meu perfil será onde irei compartilhar meus projetos! 
 
