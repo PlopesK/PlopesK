@@ -1,9 +1,12 @@
-<h1><img src="meow_code.gif" height="40"> Good Morning! <img src="meow_code.gif" height="40"></h1>
-<img src="https://media3.giphy.com/media/sn4vGDGn8Js905dRtL/giphy.gif?cid=ecf05e47gortlqzbairygnqax9ejuh31qp0di02wv11vicod&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="100" align="right">
-My name is PlopesK, and I'm a web developer who loves learning new things!<br>
-Here on my profile, I'll be sharing my projects! 
+<div align="center">
+  <h1><img src="meow_code.gif" height="40"> Good Morning! <img src="meow_code.gif" height="40"></h1>
+  My name is PlopesK, and I'm a web developer who loves learning new things!<br>
+  Here on my profile, I'll be sharing my projects! <br>
+  <img src="https://media3.giphy.com/media/sn4vGDGn8Js905dRtL/giphy.gif?cid=ecf05e47gortlqzbairygnqax9ejuh31qp0di02wv11vicod&ep=v1_stickers_search&rid=giphy.gif&ct=s"  height="100">
 
 ## 🚀 Best Skills
+</div>
+<div display="flex" align="center">
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -12,7 +15,16 @@ Here on my profile, I'll be sharing my projects!
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+</div>
 
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=plopesk&show_icons=true&theme=tokyonight" min-width="400px" max-width="400px" width="400px" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plopesk&layout=compact&theme=tokyonight" min-width="350px" max-width="350px" width="350px" align="left">
+<div align="center">
+<h1><img src="https://icons8.com.br/icon/v551nqGeHhGn/github"> Stats</h1>
+  
+<div display="flex">
+<img src="https://github-readme-stats.vercel.app/api?username=plopesk&show_icons=true&theme=tokyonight" height="200px">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plopesk&layout=compact&theme=tokyonight" height="200px">
+</div> <br>
+
+<img src="https://profile-counter.glitch.me/plopesk/count.svg" alt="hit counter" align="center">
+</div>
