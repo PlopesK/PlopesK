@@ -2,9 +2,9 @@
   <h1><img src="img/meow_code.gif" height="40"> Good Morning! <img src="img/meow_code.gif" height="40"></h1>
   My name is PlopesK, and I'm a web developer who loves learning new things!<br>
   Here on my profile, I'll be sharing my projects! <br>
-  <img src="https://media3.giphy.com/media/sn4vGDGn8Js905dRtL/giphy.gif?cid=ecf05e47gortlqzbairygnqax9ejuh31qp0di02wv11vicod&ep=v1_stickers_search&rid=giphy.gif&ct=s"  height="100">
+  <img src="https://media3.giphy.com/media/sn4vGDGn8Js905dRtL/giphy.gif?cid=ecf05e47gortlqzbairygnqax9ejuh31qp0di02wv11vicod&ep=v1_stickers_search&rid=giphy.gif&ct=s"  height="100"><br>
 
-## 🚀 Best Skills
+<h1> 🚀 Best Skills </h1>
 
 </div>
 <div display="flex" align="center">
@@ -21,11 +21,14 @@
 <div align="center">
   <h1> 🎮 Stats </h1>
   
-  <div display="flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=plopesk&show_icons=true&theme=tokyonight" height="200px">
-      <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plopesk&layout=compact&theme=tokyonight" height="200px">
-  </div> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=plopesk&show_icons=true&theme=tokyonight" height="200px"> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plopesk&layout=compact&theme=tokyonight" height="200px"><br>
+  <hr> <br>
+  <img src="img\thanks.gif" height="100" alt="Thank you for reading! :)"><br>
 
-<img src="https://profile-counter.glitch.me/plopesk/count.svg" alt="hit counter" align="center">
+<img src="img\mewo.gif" height="50" alt="Mewo Zzzzzzz..." margin-top="10"><br>
+<img src="https://profile-counter.glitch.me/plopesk/count.svg" alt="Counting...." align="center"><br>
+
+  <img src="img\work.gif" height="150" alt="Working!">
+
 </div>
