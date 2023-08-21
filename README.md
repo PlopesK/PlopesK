@@ -4,7 +4,7 @@
   Here on my profile, I'll be sharing my projects! <br>
   <img src="https://media3.giphy.com/media/sn4vGDGn8Js905dRtL/giphy.gif?cid=ecf05e47gortlqzbairygnqax9ejuh31qp0di02wv11vicod&ep=v1_stickers_search&rid=giphy.gif&ct=s"  height="100"><br>
 
-<h1> 🚀 Best Skills </h1>
+<h1> 🚀 Skills </h1>
 
 </div>
 <div display="flex" align="center">
@@ -26,9 +26,7 @@
   <hr> <br>
   <img src="img\thanks.gif" height="100" alt="Thank you for reading! :)"><br>
 
-<img src="img\mewo.gif" height="50" alt="Mewo Zzzzzzz..." margin-top="10"><br>
+<img src="img\mewo.gif" height="60" alt="Mewo Zzzzzzz..." margin-top="10"><br>
 <img src="https://profile-counter.glitch.me/plopesk/count.svg" alt="Counting...." align="center"><br>
-
-  <img src="img\work.gif" height="150" alt="Working!">
 
 </div>
