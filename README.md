@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="meow_code.gif" height="40"> Good Morning! <img src="meow_code.gif" height="40"></h1>
+  <h1><img src="img/meow_code.gif" height="40"> Good Morning! <img src="img/meow_code.gif" height="40"></h1>
   My name is PlopesK, and I'm a web developer who loves learning new things!<br>
   Here on my profile, I'll be sharing my projects! <br>
   <img src="https://media3.giphy.com/media/sn4vGDGn8Js905dRtL/giphy.gif?cid=ecf05e47gortlqzbairygnqax9ejuh31qp0di02wv11vicod&ep=v1_stickers_search&rid=giphy.gif&ct=s"  height="100">
@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-<h1><img src="https://icons8.com.br/icon/v551nqGeHhGn/github"> Stats</h1>
+<h1><img src="img/github.gif"> Stats </h1>
   
 <div display="flex">
 <img src="https://github-readme-stats.vercel.app/api?username=plopesk&show_icons=true&theme=tokyonight" height="200px">
