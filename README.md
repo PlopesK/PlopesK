@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
 <h1><img src="meow_code.gif" height="40"> Good Morning! <img src="meow_code.gif" height="40"></h1>
-Meu nome é PlopesK e sou um web developer que ama aprender coisas novas!<br>
-Aqui no meu perfil será onde irei compartilhar meus projetos! 
+My name is PlopesK, and I'm a web developer who loves learning new things!<br>
+Here on my profile, I'll be sharing my projects! 
 
-## 🚀 Minhas Skills
+## 🚀 Best Skills
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
