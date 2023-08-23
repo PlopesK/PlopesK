@@ -8,13 +8,13 @@
 </div>
 
 ### Most Used:
-[![Present](https://skillicons.dev/icons?i=js,ts,angular,nodejs,html,css,mysql&theme=dark)](https://skillicons.dev)
+[![Present](https://skillicons.dev/icons?i=js,ts,angular,nodejs,html,css,mysql,unity&theme=dark)](https://skillicons.dev)
 
 ### Know a lot, but don't use with frequency:
 [![Past](https://skillicons.dev/icons?i=java,php,c,cpp,figma,unreal&theme=dark)](https://skillicons.dev)
 
 ### Still learning!
-[![Learning](https://skillicons.dev/icons?i=react,redux,babel,nextjs,unity,cs,sass,figma&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,redux,babel,nextjs,cs,sass,figma&theme=dark)](https://skillicons.dev)
 
 ### Environments I work with:
 <div display="flex">
