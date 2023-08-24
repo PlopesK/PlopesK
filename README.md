@@ -14,7 +14,7 @@
 [![Past](https://skillicons.dev/icons?i=java,php,c,cpp,figma,unreal&theme=dark)](https://skillicons.dev)
 
 ### Still learning!
-[![Learning](https://skillicons.dev/icons?i=react,redux,babel,nextjs,cs,sass,figma&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,redux,babel,nextjs,cs,sass&theme=dark)](https://skillicons.dev)
 
 ### Environments I work with:
 <div display="flex">
