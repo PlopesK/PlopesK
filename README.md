@@ -16,7 +16,7 @@
 ### Still learning!
 [![Learning](https://skillicons.dev/icons?i=react,redux,babel,nextjs,cs,sass&theme=dark)](https://skillicons.dev)
 
-### Environments I work with:
+### Other tools I work with:
 <div display="flex">
   
   [![Git](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
