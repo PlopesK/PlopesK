@@ -19,18 +19,15 @@
 [![Learning](https://skillicons.dev/icons?i=react,redux,babel,nextjs,cs,sass&theme=dark)](https://skillicons.dev)
 
 ### Other tools I work with:
-<div display="flex">
-  
   [![Git](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
   <img alt="Yarn" title="Yarn" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" height="42">
   <img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42">
-</div>
 
 <div align="center">
   <h1> 🎮 Stats </h1>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=plopesk&show_icons=true&theme=tokyonight" height="200px"> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plopesk&layout=compact&theme=tokyonight" height="200px"><br>
+  <img src="https://readmestats.999857.xyz/api?username=plopesk&show_icons=true&theme=tokyonight" height="200px"> <br>
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=plopesk&layout=compact&theme=tokyonight" height="200px"><br>
   <hr> <br>
   <img src="img\thanks.gif" height="100" alt="Thank you for reading! :)"><br>
 
