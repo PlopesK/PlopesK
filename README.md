@@ -1,7 +1,7 @@
 <div align="center">
   <h1><img src="img/meow_code.gif" height="40"> Good Morning! <img src="img/meow_code.gif" height="40"></h1>
   <p>👋 Hey there, I'm PlopesK, a web developer with a passion for crafting amazing online experiences! </p>
- <p>💻 My expertise lies in FrontEnd Development, but I'm no stranger to the FullStack world either.</p>
+ <p>💻 My expertise lies in FrontEnd Development, but I'm no stranger to the BackEnd world either.</p>
   <p>🎨 Get ready for a showcase of projects that I've <strong>poured my heart and soul into</strong>.</p>
   <p>🚀 Join me on this journey of creativity and learning as we dive into the world of web development together!</p>
   <img src="https://media3.giphy.com/media/sn4vGDGn8Js905dRtL/giphy.gif?cid=ecf05e47gortlqzbairygnqax9ejuh31qp0di02wv11vicod&ep=v1_stickers_search&rid=giphy.gif&ct=s"  height="100"><br>
